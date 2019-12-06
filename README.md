@@ -1,7 +1,5 @@
 # AdaESPGL
 
-[![lic-image]][lic-url]
-
 This repository contains the implementation details of our paper: [IEEE Transactions on Industrial Electronics]
 "[**Enhanced sparse period-group lasso for bearing fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/8365091)" 
 by [Zhibin Zhao](https://zhaozhibin.github.io/). 
@@ -61,4 +59,4 @@ If you feel our AdaESPGL is useful for your research, please consider citing our
 ```
 ## Contact
 - zhibinzhao1993@gmail.com
-[lic-image]: https://img.shields.io/aur/license/pac.svg
+
